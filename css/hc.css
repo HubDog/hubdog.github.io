@@ -301,7 +301,7 @@ pre
   font-size:3em;
   font-weight:700;
   color:#2d4440;
-  transition:all 5s
+  transition:all 5s ease 0s
 }
 
 #welcome-greeting > h2
