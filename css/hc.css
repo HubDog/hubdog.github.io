@@ -178,7 +178,7 @@ p
   -ms-transition:.5s;
   -moz-transition:.5s;
   -webkit-transition:.5s;
-  transition:5s
+  transition:.5s
 }
 
 .sidebar-nav > .sidebar-brand a
@@ -301,7 +301,7 @@ pre
   font-size:3em;
   font-weight:700;
   color:#2d4440;
-  transition:all 5s ease 0s
+  transition:all .5s ease 0s
 }
 
 #welcome-greeting > h2
